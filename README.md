@@ -1,5 +1,5 @@
 ## 2021661019 김유진 앱개발기초 기말과제
-### <<nonsenseQuizApp>>
+### nonsenseQuizApp!
 ##### 수업시간에서 배운 ArrayList를 사용하여 넌센스 퀴즈앱을 만들어보았습니다.
 
 ### 앱 설명
